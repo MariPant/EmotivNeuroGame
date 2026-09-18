@@ -118,7 +118,7 @@ Assets/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NeuroRaces.git
+   git clone https://github.com/MariPant/EmotivNeuroGame
    ```
 2. Open the project in Unity 6.
 3. Add your Emotiv credentials in `Assets/Scripts/AppCredentials.cs`:
@@ -245,6 +245,7 @@ Key parameters can be adjusted in the Unity Inspector.
 ## Author
 
 **Marina Panteleev**
+Thesis (https://urn.fi/URN:NBN:fi:amk-2026052115202)
 Bachelor's thesis - LAB University of Applied Sciences
 Institute of Design and Fine Art
 Information and Communication Technology (BEng)
